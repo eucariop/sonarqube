@@ -1,5 +1,5 @@
-# FROM registry.access.redhat.com/ubi8/ubi
-FROM registry.cirrus.ibm.com/public/ubi8
+FROM registry.access.redhat.com/ubi8/ubi
+# FROM registry.cirrus.ibm.com/public/ubi8
 
 LABEL name="SonarQube Image" \
       vendor="SonarSource" \
